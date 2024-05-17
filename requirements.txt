@@ -1,0 +1,12 @@
+pytest
+pytest-cov
+pylint
+black
+argparse
+numpy
+opencv-python
+pygame
+tensorflow
+keras
+patchify
+segmentation_models
